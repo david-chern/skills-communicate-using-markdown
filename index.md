@@ -9,3 +9,6 @@ var myVar = "Hello, world!";
 ```
 
 
+- [ ] Make page
+- [ ] Add image
+- [ ] Add list
